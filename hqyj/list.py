@@ -1,0 +1,8 @@
+l1=list(range(1,5))
+print(l1)
+l1.extend("123456")
+print(l1)
+print(l1.pop())
+print(l1)
+l1.reverse()
+print(l1)
